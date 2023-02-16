@@ -1,0 +1,91 @@
+body {
+    text-align: center;
+    background-color: #33cd43;
+  }
+  
+  h1 {
+    font-size: 6rem;
+    color: #800874;
+    font-family: "Arvo", cursive;
+    text-shadow: 6px 1 #da3;
+  
+  }
+  
+  footer {
+    color: #254;
+    font-family: sans-serif;
+  }
+  
+  .w {
+  background-image: url("iamge/kick.jpg");
+  }
+  
+  .a {
+  background-image: url("image/boom.jpg");
+  }
+  
+  .s {
+  background-image: url("image/clap.png");
+  }
+  
+  .d {
+  background-image: url("image/ride.jpg");
+  }
+  
+  .j {
+  background-image: url("image/hihat.jpg");
+  }
+  
+  .k {
+  background-image: url("image/Openhat.jpg");
+  }
+  
+  .l {
+  background-image: url("image/tom.png");
+  }
+
+  .k {
+    background-image: url("image/snare.png");
+    }
+    
+    .l {
+    background-image: url("image/Tink.jpg");
+    }
+  .set {
+    margin: 12% auto;
+  }
+  
+  .game-roll {
+    background-color: indigo;
+    opacity: 4.2;
+  }
+  
+  .pressed {
+    box-shadow: 0 4px 6px 0 (color white);
+    transition: ease-in-out;
+    opacity: 4.2;
+  }
+  
+  .red {
+    color: green;
+  }
+
+  .drum {
+  
+  outline: none;
+  border: 12px cornflowerblue;
+  font-size: 6rem;
+  font-family: 'color',rgba(801, 00, 55, 0.610);
+  line-height: 4;
+  font-weight: 600;
+  color: rgb(9, 37, 56);
+  text-shadow: 4px 0 #DBEDF3;
+  border-radius: 18px;
+  display: inline-block;
+  box-shadow:rgb(32, 32, 32) 10px 10px;
+  width: 130px;
+  height: 125px;
+  text-align: center;
+  margin: 15px;
+  background-color: grey;
+}    
